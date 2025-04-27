@@ -150,5 +150,5 @@ Distribuído sob a licença **MIT**. Consulte `LICENSE` para mais detalhes.
 
 ## 👤 Autor
 
-Thiago Bibiano da Silva — [LinkedIn](https://www.linkedin.com/in/thiagobibiano) · [thiago@example.com](mailto\:thiago@example.com)
+Thiago Bibiano da Silva — [LinkedIn]([https://www.linkedin.com/in/thiagobibiano](https://www.linkedin.com/in/thiago-bibiano-da-silva-510b3b15b/)) · [thiagobibiano@ymail.com](mailto\:thiagobibiano@ymail.com)
 
