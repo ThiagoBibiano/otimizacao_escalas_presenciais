@@ -35,6 +35,12 @@ O resultado é um conhecimento replicável, aplicável a qualquer organização 
 | **Visualização**           | Exibe métricas, alocação por mesa/dia, gráficos Altair e relatório de sensibilidade (Reduced Cost, Shadow Price, Slack). |
 
 ---
+▶️ Demonstração em vídeo
+
+Assista à compilação completa de uso da aplicação no YouTube:
+https://youtu.be/a1Ne6lLUytM
+
+---
 
 ## ⚙️ Arquitetura
 
